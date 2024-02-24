@@ -1,0 +1,28 @@
+{
+    "commandstart": "-",
+    "feedback_channel": "992532378696290314",
+    "questions": [
+        "Nickname: (If you would like one)",
+        "How old are you? ( Lying about your age will get you banned)",
+        "Why do you want to join?",
+
+        "What do you hope to do in the server if you are accepted",
+
+        "Where did you find this server?(please tell us how you found the server ether from a webpage /discord invite link or disbord)",
+
+        "Do You Agree To Abide By The Server Rules And Understand What Will Happen If You Fail To Do So?",
+
+        "Do You Understand That All Main Channels Are STRICTLY SFW?:",
+
+        "Read the rules if so in your own words please type one of the following server rules",
+
+        "Please enter the password this can be found <#941692060744958042>"
+    ],
+    "testServer": {
+        "verify_channel": "1022190939223105577",
+        "general": "941723195050971167",
+        "roles": {
+            "verified": "1022192424333885462"
+        }
+    }
+}
